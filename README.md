@@ -15,7 +15,7 @@ For each input image, the model provides region marking and classification resul
 ## Installation
 
 Ensure you have Python installed along with the required packages:
-!pip install ultralytics
+   !pip install ultralytics
 
 Usage
 Clone the repository:
