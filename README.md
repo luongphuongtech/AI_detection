@@ -42,8 +42,8 @@ Training results are summarized below:
 
 Training Results
 
-Class	Number of Objects	Precision	Recall	mAP50	mAP50-95
-ALL	5319	0.929	0.892	0.940	0.640
-Hat	864	0.936	0.910	0.944	0.742
-Person	4455	0.921	0.874	0.935	0.537
-These results demonstrate the performance of the model in detecting safety helmets on individuals.
+| Class   | Number of Objects | Precision | Recall | mAP50 | mAP50-95 |
+|---------|-------------------|-----------|--------|-------|----------|
+| ALL     | 5319              | 0.929     | 0.892  | 0.940 | 0.640    |
+| Hat     | 864               | 0.936     | 0.910  | 0.944 | 0.742    |
+| Person  | 4455              | 0.921     | 0.874  | 0.935 | 0.537    |
