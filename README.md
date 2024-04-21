@@ -41,6 +41,8 @@ Training Results
 Training results are summarized below:
 ![image](https://github.com/luongphuongtech/AI_detection/assets/121532605/c9681bc2-3ca8-4b96-921f-fb042a0aac6c)
 
+
+
 Training Results
 
 | Class   | Number of Objects | Precision | Recall | mAP50 | mAP50-95 |
